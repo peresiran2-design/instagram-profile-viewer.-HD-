@@ -1,4 +1,4 @@
-[README(2).md](https://github.com/user-attachments/files/33744000/README.2.md)
+<p align="center"><img src="icons/icon128.png" width="128"></p>
 # HD Profile Viewer (Chrome Extension)
 
 دریافت عکس پروفایل اینستاگرام با بالاترین کیفیت موجود.
