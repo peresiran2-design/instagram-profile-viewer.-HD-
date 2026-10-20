@@ -20,6 +20,7 @@ Get an Instagram profile picture in the highest available quality.
 صفحه instagram.com را باز کنید، روی آیکون اکستنشن کلیک کنید، نام کاربری را وارد کنید و «دریافت HD» را بزنید.
 Open instagram.com, click the extension icon, enter a username and press the HD button.
 
+<img width="1144" height="861" alt="Image" src="https://github.com/user-attachments/assets/1dcc91dd-0dc6-4738-ad09-d65800d28afb" />
 ## توضیحات فنی / Notes
 
 - Chrome 111 یا بالاتر لازم است. / Requires Chrome 111+.
