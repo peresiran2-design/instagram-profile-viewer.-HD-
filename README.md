@@ -7,12 +7,14 @@ Get an Instagram profile picture in the highest available quality.
 ## نصب / Install
 
 1. این مخزن را با دکمه **Code → Download ZIP** دانلود و از حالت فشرده خارج کنید.
+ 
+
    Download this repo via **Code → Download ZIP** and extract it.
-2. در کروم `chrome://extensions` را باز کنید.
+3. در کروم `chrome://extensions` را باز کنید.
    Open `chrome://extensions` in Chrome.
-3. **Developer mode** را روشن کنید.
+4. **Developer mode** را روشن کنید.
    Turn on **Developer mode**.
-4. روی **Load unpacked** بزنید و پوشه‌ای که `manifest.json` داخلش است را انتخاب کنید.
+5. روی **Load unpacked** بزنید و پوشه‌ای که `manifest.json` داخلش است را انتخاب کنید.
    Click **Load unpacked** and select the folder containing `manifest.json`.
 
 ## استفاده / Usage
