@@ -1,4 +1,4 @@
-<p align="center"><img src="icons/icon128.png" width="128"></p>
+<p align="center"><img src="icon128.png" width="128"></p>
 # HD Profile Viewer (Chrome Extension)
 
 دریافت عکس پروفایل اینستاگرام با بالاترین کیفیت موجود.
