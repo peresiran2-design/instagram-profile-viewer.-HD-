@@ -51,6 +51,10 @@ Get an Instagram profile picture in the highest available quality.
 
 ## تصاویر / Screenshots
 
+<img width="1144" height="861" alt="Screenshot 1" src="https://raw.githubusercontent.com/peresiran2-design/instagram-profile-viewer.HD/main/gitkeep/ping3.jpg" />
+
+&nbsp;
+
 <img width="1144" height="861" alt="Screenshot 1" src="https://github.com/user-attachments/assets/1dcc91dd-0dc6-4738-ad09-d65800d28afb" />
 
 &nbsp;
